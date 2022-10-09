@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpsgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\stealthgame\\intermediate\\build\\win64\\fpsgameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\development\\fpsgame\\definitions.fpsgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

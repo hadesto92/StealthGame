@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\stealthgame\\source\\fpsgame\\private\\fpscharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\stealthgame\\intermediate\\build\\win64\\fpsgameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\development\\fpsgame\\definitions.fpsgame.h",
+            "g:\\stealthgame\\source\\fpsgame\\public\\fpscharacter.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpscharacter.generated.h",
+            "g:\\stealthgame\\source\\fpsgame\\public\\fpsprojectile.h",
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpsprojectile.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\pawnnoiseemittercomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\pawnnoiseemittercomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

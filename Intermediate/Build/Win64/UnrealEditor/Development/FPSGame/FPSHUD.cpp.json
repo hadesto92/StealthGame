@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\stealthgame\\source\\fpsgame\\private\\fpshud.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\stealthgame\\intermediate\\build\\win64\\fpsgameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\development\\fpsgame\\definitions.fpsgame.h",
+            "g:\\stealthgame\\source\\fpsgame\\public\\fpshud.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\debugtextinfo.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\hud.generated.h",
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpshud.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\canvas.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\public\\canvasitem.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\font.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\fontimportoptions.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\fontimportoptions.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\fonts\\fontproviderinterface.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slatecore\\fontproviderinterface.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\font.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\canvas.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

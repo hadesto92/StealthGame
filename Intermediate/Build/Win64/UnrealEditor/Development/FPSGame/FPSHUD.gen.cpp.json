@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpshud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\stealthgame\\intermediate\\build\\win64\\fpsgameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\development\\fpsgame\\definitions.fpsgame.h",
+            "g:\\stealthgame\\source\\fpsgame\\public\\fpshud.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\debugtextinfo.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\hud.generated.h",
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpshud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\stealthgame\\source\\fpsgame\\private\\fpsprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\stealthgame\\intermediate\\build\\win64\\fpsgameeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\development\\fpsgame\\definitions.fpsgame.h",
+            "g:\\stealthgame\\source\\fpsgame\\public\\fpsprojectile.h",
+            "g:\\stealthgame\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsgame\\fpsprojectile.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "e:\\epic game project\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

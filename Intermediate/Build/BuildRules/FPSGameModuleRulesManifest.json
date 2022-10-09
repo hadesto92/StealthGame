@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\StealthGame\\Source\\FPSGame\\FPSGame.Build.cs",
+		"G:\\StealthGame\\Source\\FPSGame.Target.cs",
+		"G:\\StealthGame\\Source\\FPSGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
